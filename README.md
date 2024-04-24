@@ -10,7 +10,7 @@ Locate the target element's index within the array (if present). Determine the
 index where the target element would be inserted to maintain the sorted order
 (if not present).
 
-> Example: Consider the input numbers = [1,3,5,6] and target target = 7.
+> Example: Consider the input $numbers = [1,3,5,6] and target $target = 7.
 
 The target 7 is not present in the array. However, to maintain the sorted order,
 7 would be inserted at index 4.
