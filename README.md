@@ -46,6 +46,7 @@ and the target integer target as input. Here's a breakdown of its functionality:
 ### Efficiency
 
 Time Complexity: O(log n), signifying efficient search due to binary search.
+
 Space Complexity: O(1), indicating constant additional space usage.
 
 ### Note
