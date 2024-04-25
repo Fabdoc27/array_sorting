@@ -22,10 +22,10 @@ code includes an optional sorting step for flexibility.
 
 **Binary Search**: The code employs binary search, a divide-and-conquer search
 algorithm, to efficiently locate the target element within the sorted array.
-Implementation
 
-The code includes a function named search that takes the sorted array numbers
-and the target integer target as input. Here's a breakdown of its functionality:
+**Implementation**: The code includes a function named search that takes the
+sorted array numbers and the target integer target as input. Here's a breakdown
+of its functionality
 
 - Optional Sorting: The function can optionally sort the array using the sort()
   function.
